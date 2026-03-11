@@ -8,4 +8,4 @@ Features:
 - Clean UI with buttons and display
 
 How to use:
-Open 'index.html' in browser.
+Open 'index.html' in a browser.
